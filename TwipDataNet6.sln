@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwipDataWeb", "TwipDataWeb\TwipDataWeb.csproj", "{802F6501-6BA4-4A34-9E7A-033D3DE5950D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802F6501-6BA4-4A34-9E7A-033D3DE5950D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802F6501-6BA4-4A34-9E7A-033D3DE5950D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802F6501-6BA4-4A34-9E7A-033D3DE5950D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802F6501-6BA4-4A34-9E7A-033D3DE5950D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ADCEB6D-32C5-491C-8EAB-396BA2D62965}
+	EndGlobalSection
+EndGlobal
